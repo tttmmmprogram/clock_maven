@@ -28,7 +28,7 @@ public class Args {
 
      public String getLongHandColor(){
          return longHandColor;
-     }
+    }
 
     public boolean isRunningMode(){
         return !isShowVersion() && !isShowHelp();
